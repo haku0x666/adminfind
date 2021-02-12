@@ -3,7 +3,7 @@
  
 # How to use ❄
  
-     ☪ git clone https://github.com/adminfind
+     ☪ git clone https://github.com/TheG0ds/adminfind
   
      ☪ cd adminfind/
   
